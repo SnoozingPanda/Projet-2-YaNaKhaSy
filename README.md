@@ -1,5 +1,7 @@
 # Projet-2-YaNaKhaSy
 
+NB: Ce projet est toujours en développement. les fichiers seront bientôt déposés.
+
 Ce projet est le deuxième projet professionnel du bootcamp Data Analyst de la Wild Code School à Paris
 
 Un cinéma de la Creuse en perte de vitesse a décidé de sauter le pas du numérique et a demandé à notre équipe de créer une application de recommandation de films
