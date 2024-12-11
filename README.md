@@ -1,6 +1,6 @@
 # Projet-2-YaNaKhaSy
 
-NB: Ce projet est toujours en développement. les fichiers seront bientôt déposés.
+NB: Ce projet est une v1. Une v2 est en cours de développement avec des améliorations significatives
 
 Ce projet est le deuxième projet professionnel du bootcamp Data Analyst de la Wild Code School à Paris
 
