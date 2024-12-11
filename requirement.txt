@@ -1,9 +1,6 @@
-Python 3.13.0
-Streamlit 1.40.2
-
-pandas
-random
-requests
-streamlit
-streamlit_card
-scikit-learn
+python 3.13.0
+streamlit 1.40.2
+streamlit-card 1.0.2
+pandas 2.2.3
+requests 2.32.3
+scikit-learn 1.5.2
