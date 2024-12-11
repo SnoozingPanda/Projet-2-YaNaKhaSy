@@ -1,6 +1,4 @@
-# Projet-2-YaNaKhaSy
-
-NB: Ce projet est une v1. Une v2 est en cours de développement avec des améliorations significatives
+# Recommandation de films v1
 
 Ce projet est le deuxième projet professionnel du bootcamp Data Analyst de la Wild Code School à Paris
 
@@ -22,4 +20,6 @@ Parallèlement à ce travail de présentation, l'application a été réalisée 
 Deux modèles de machine learning nous ont permis de recommander les films par leurs caractéristiques "numériques" (année de sortie, note, ...) avec un KNearest Neighbors
 et une recommandation par mots-clés grâce à un CountVectoriser
 
-Il reste encore beaucoup à faire pour terminer cette application mais le rendu actuel est déjà très satisfaisant
+
+NB: Ce projet est une v1.
+Une v2 est en cours de développement avec des améliorations significatives notamment une refonte du code pour une meilleure lisibilité
